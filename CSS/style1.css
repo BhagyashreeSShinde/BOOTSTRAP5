@@ -1,0 +1,12 @@
+img{
+  /*handle width between image */
+  max-width: 100%;
+}
+.row{
+  height: 125px;
+  border-bottom: 5px solid black;
+  margin-bottom: 25px;
+}
+.bg-info{
+  padding: 6px;
+}
