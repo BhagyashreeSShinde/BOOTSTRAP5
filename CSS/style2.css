@@ -1,0 +1,43 @@
+.navbar-nav{
+  margin-left: 45px;
+}
+.nav-item{
+  margin-left: 15px;
+}
+.btn{
+  border-radius: 12px;
+  width: 120px; 
+  background-color:cadetblue;
+}
+.btn:hover{
+  background-color:blueviolet;
+}
+.head{
+  border-bottom: 2px solid blueviolet;
+  width: 50px;
+  padding-top: 7px;
+}
+.head1{
+  border-bottom: 2px solid blueviolet;
+  width: 100px;
+  padding-top: 7px;
+}
+.bi{
+  margin-left: 22px;
+  font-size: 19px;
+  color: gray;
+}
+.bi:hover{
+  color: yellow;
+}
+ul{
+  list-style-type: none;
+}
+li{
+  color: grey;
+}
+.hdd{
+  font-size: 20px;
+  color: black;
+  text-shadow: 1px 2px 1px rgb(65, 3, 65);
+}
